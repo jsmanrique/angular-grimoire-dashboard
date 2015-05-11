@@ -1,0 +1,19 @@
+{
+    "menu":{
+	"scm": [
+            "contributors",
+            "domains",
+            "repos"
+	],
+	"studies": [
+            "demographics"
+	],
+	"its": [
+            "contributors",
+            "domains",
+            "repos",
+            "states"
+	]
+    },
+    "releases":[]
+}
